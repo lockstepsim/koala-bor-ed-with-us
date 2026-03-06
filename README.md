@@ -42,6 +42,18 @@ You just:
 4. Contributed to a project  
 5. 🚀✨ Became a volunteer! 👋 _Welcome!_
 
+## 🌍 Multilingual Collaboration
+
+You can contribute in **any language**.  
+Open issues, pull requests, and discussions in the language you’re most comfortable with — we’ll use translation tools when needed.
+
+**Español:** Puedes escribir tus contribuciones en español.  
+**Português:** Você pode colaborar em português.  
+**Français:** Vous pouvez contribuer en français.  
+**中文 / العربية / हिन्दी:** All languages are welcome here.
+
+Language should never be a barrier to joining this project.
+
 # Contributors
 🦗
 your name here pls
