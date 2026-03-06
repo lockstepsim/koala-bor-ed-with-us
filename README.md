@@ -4,7 +4,10 @@ Engage with us and become a collaborator! We need volunteers — and that could 
 Help us attract volunteers. Just leave a trace that you were here!
 
 ## 🐨 How to Make Your First Commit (Super Simple Guide)
-
+Preconditions:
+- Logged in GitHub
+- In editing mode
+  
 ### 1. Open the README file
 You're already here — perfect.
 
