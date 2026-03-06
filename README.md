@@ -6,8 +6,9 @@ Help us attract volunteers. Just leave a trace that you were here!
 ## 🐨 How to Make Your First Commit (Super Simple Guide)
 Preconditions:
 - Logged in GitHub
-- In editing mode
-  
+- In editing mode ✏️
+
+
 ### 1. Open the README file
 You're already here — perfect.
 
@@ -26,7 +27,7 @@ Click it.
 ### 5. Submit the Pull Request
 Add a short message like:
 
-Added my name to the README
+> Yo im editing the README wuu
 
 Then click **Create pull request**.
 
@@ -35,16 +36,22 @@ A maintainer will approve and merge it.
 
 ### 7. You're done! 🎉
 You just:
-- Edited a file  
-- Created a commit  
-- Opened a pull request  
-- Contributed to a project  
+1. Edited a file  
+2. Created a commit  
+3. Opened a pull request  
+4. Contributed to a project  
+5. 🚀✨ Became a volunteer! 👋 _Welcome!_
 
-
-_A community project by Dollar Scholars._
-### Cite this as:  
-Dollar Scholars (2026). Koala‑bor‑ed With Us. GitHub. Available at: https://github.com/Dollar-Scholars/koala-bor-ed-with-us.
+# Contributors
+🦗
+your name here pls
 
 ## License
 
 The content of this project itself is licensed under the [Creative Commons Attribution–ShareAlike 4.0 International License (CC BY‑SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+### Cite this as:  
+Dollar Scholars (2026). Koala‑bor‑ed With Us. GitHub. Available at: https://github.com/Dollar-Scholars/koala-bor-ed-with-us.
+
+
+_A community project by Dollar Scholars💸._
