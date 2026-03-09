@@ -56,7 +56,7 @@ Language should never be a barrier to joining this project.
 
 # Contributors
 🦗
-your name here pls
+Talon Wilde
 
 ## License
 
