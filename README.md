@@ -57,6 +57,8 @@ Language should never be a barrier to joining this project.
 # Contributors
 🦗
 Talon Wilde
+🦗
+May Ling Ngo
 
 ## License
 
