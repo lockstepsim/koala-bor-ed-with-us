@@ -59,6 +59,8 @@ Language should never be a barrier to joining this project.
 Talon Wilde
 🦗
 May Ling Ngo
+🦗
+Maanyavar
 
 ## License
 
